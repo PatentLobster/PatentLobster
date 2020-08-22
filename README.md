@@ -2,6 +2,9 @@
 
 Check my [site](https://itzik.co)
 
+
+![GitStats](https://github-readme-stats.vercel.app/api?username=PatentLobster&theme=onedark)
+
 ### Languages and Tools:
 
 <img align="left" alt="Jetbrains" width="26px" src="https://avatars0.githubusercontent.com/u/878437?s=200&v=4" />
