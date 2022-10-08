@@ -1,6 +1,8 @@
 ### Hi there 👋
-
 Check my [site](https://itzik.co)
+
+
+![PatentLobster](./patentlobster.svg)
 
 
 ![GitStats](https://github-readme-stats.vercel.app/api?username=PatentLobster&theme=onedark)
