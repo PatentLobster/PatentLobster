@@ -1,11 +1,16 @@
-### Hi there 👋
-Check my [site](https://itzik.co)
 
+<h1 align="center">  Hi there 👋  </h1>
 
-![PatentLobster](./patentlobster.svg)
+<p align="center">Check my <a href="https://itzi.co">site</a></p>
 
+<p align="center" width="100%">
+    <img width="33%" src="./patentlobster.svg"> 
+</p>
 
-![GitStats](https://github-readme-stats.vercel.app/api?username=PatentLobster&theme=onedark)
+<p align="center" width="100%">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=PatentLobster&theme=onedark"> 
+</p>
+
 
 ### Languages and Tools:
 
@@ -36,20 +41,7 @@ Check my [site](https://itzik.co)
 ---
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center" width="100%">
+    <img width="33%" src="https://readme-jokes.vercel.app/api"> 
+</p>
 
-
-<!--
-**PatentLobster/PatentLobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
