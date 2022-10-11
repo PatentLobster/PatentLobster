@@ -1,14 +1,14 @@
 
 <h1 align="center">  Hi there 👋  </h1>
 
-<p align="center">Check my <a href="https://itzi.co">site</a></p>
+<p align="center">Check my <a href="https://itzi.co" alt="Itzik's site">site</a></p>
 
 <p align="center" width="100%">
     <img width="33%" src="./patentlobster.svg"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=PatentLobster&theme=onedark"> 
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=PatentLobster&theme=onedark"> 
 </p>
 
 
